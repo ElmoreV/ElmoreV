@@ -3,6 +3,27 @@
 
 ## Current projects
 
+### [Optimizing rote-learning by test-software](https://github.com/ElmoreV/py_intrarepetition_spacing)
+
+There have been several investigations in the memory model, how we engrain facts in our brain. There have been some exciting new items in the last year. There are still some puzzle-pieces missing. This is my attempt at cracking it.
+
+### [Topic/week/day-based planner](https://github.com/ElmoreV/TaskPlanner_javareact)
+
+I have found my own way of planning my week that exactly suits my needs. I intend on launching a Website soon that allows interaction with an SQL database for the different To-do's. Through this, I will learn Java, a front-end framework and interaction with SQL. It should include
+
+- Front-end
+    - Different views of the same data (per-topic, weekly, daily).
+    - Drag and drop style tasks
+    - Easy adding, removing and changing tasks by clicking natural UX design
+
+- Back-end
+    - (Hierarchical) tags of a task
+    - Current statuss of a task (not started, partially done, done, waiting for a response/blocked)
+    - Sub-tasking
+    - Dependencies on other tasks
+    - Deadlines
+    - Duration and difficulty
+
 ### Hierarchical-tag based File Manager
 
 Many of the file managers I see have two modes: files and folders, or tags/keywords.  
@@ -44,28 +65,6 @@ Using keywords are tedious: you might want all holidays instead of just 'mallorc
 
 Generally, simulations in Quantum Mechanics stop at simulating a single particle Schrödinger Equations, or go to the other extreme of simulating particles only at the Fermi energy, after applying a ton of approximations. This project is a test to see how much these approximations are really necessary. An example is the Born-Oppenheimer approximation, which removes phonons from the picture. Afterwards people introduce a phenomenological bosonic model of phonons that works very well. The steps in between these two are up to this date very opaque. And very intriguing for Superconductivity, based on the phonon-electron interaction. Could we even simulate superconducting hydrogen? Not yet committed to GitHub.
 
-### [Optimizing rote-learning by test-software](https://github.com/ElmoreV/py_intrarepetition_spacing)
-
-There have been several investigations in the memory model, how we engrain facts in our brain. There have been some exciting new items in the last year. There are still some puzzle-pieces missing. This is my attempt at cracking it.
-
-### Topic/week/day-based planner.
-
-I have found my own way of planning my week that exactly suits my needs. I intend on launching a Website soon that allows interaction with an SQL database for the different To-do's. Through this, I will learn Java, a front-end framework and interaction with SQL. It should include
-
-- Front-end
-    - Different views of the same data (per-topic, weekly, daily).
-    - Drag and drop style tasks
-    - Easy adding, removing and changing tasks by clicking natural UX design
-
-- Back-end
-    - (Hierarchical) tags of a task
-    - Current statuss of a task (not started, partially done, done, waiting for a response/blocked)
-    - Sub-tasking
-    - Dependencies on other tasks
-    - Deadlines
-    - Duration and difficulty
-Not yet committed to GitHub.
-
 ## Past projects
 
 ### pyGDSign
@@ -78,7 +77,7 @@ Another notable feature is the automatic documentation of the DesignElements, wh
 One of my oldest real projects (read: 2008) written in C++ for searching for files in Windows, as I felt the native Windows Search was lacking. It still is, so I am still using and maintaining this.
 It has a home-brew parsing functionality built-in (you can search for "music?", or use "apples|oranges" to search for both, or "*.pdf"). Look in the repository to learn more! Not yet committed to GitHub.
 
-### A Rat's Tale
+### [A Rat's Tale](https://github.com/ElmoreV/ART)
 
 A game made in C++ using the SDL framework as part of my high-school final project, together with my project partner. It's a 2D platformer, with a rat that can draw platforms on the fly with his tail. The levels can be edited, as it's based on a simple text-file based ASCII grid, that translated. Not yet committed to GitHub.
 
